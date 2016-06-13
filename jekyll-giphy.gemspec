@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.description = 'Just think about a word/topic and the plugin will randomly select a GIF from giphy.com'
   s.authors     = ['Valentina Fernandez Alanis (vfalanis)']
   s.email       = 'v.f.alanis@gmail.com'
-  s.files       = ['lib/giphy.rb']
+  s.files       = ['lib/jekyll-giphy.rb']
   s.homepage    = 'https://github.com/jasonbellamy/jekyll-giphy'
   s.license     = 'MIT'
 end

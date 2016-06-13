@@ -8,7 +8,21 @@ Just think about a word/topic and the plugin will randomly select a GIF from  [g
 
 ### Installation:
 
+#### 1a. Manual Installation
 In your jekyll site source root, make a _plugins directory. Place the giphy.rb file there.
+
+#### 1b. Automatic Installation
+
+* Install the gem:
+
+```
+    gem install jekyll-giphy
+```
+
+* Add the gem to your Jekyll _config.yml:
+```
+    gems: [jekyll-giphy]
+```
 
 ### Usage:
 ```
@@ -19,9 +33,7 @@ For example:
 ```
 {% giphy welcome %}
 ```
-or
+Another example:
 ```
 {% giphy cats %}
 ```
-
-
