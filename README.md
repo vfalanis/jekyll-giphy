@@ -17,11 +17,11 @@ In your jekyll site source root, make a _plugins directory. Place the giphy.rb f
 
 For example:
 ```
-{% giphy welcome}
+{% giphy welcome %}
 ```
 or
 ```
-{% giphy cats }
+{% giphy cats %}
 ```
 
 
