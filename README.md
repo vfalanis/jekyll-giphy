@@ -4,7 +4,7 @@ A jekyll plugin for embedding Giphy GIFS in your blog/site
 
 Just think about a word/topic and the plugin will randomly select a GIF from  [giphy.com](http://giphy.com/)
 
-![cool](http://giphy.com/embed/KXY5lB8yOarLy)
+![](http://i.giphy.com/KXY5lB8yOarLy.gif)
 
 ### Installation:
 
